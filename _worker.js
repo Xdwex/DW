@@ -13,8 +13,6 @@ let addresses = [
 	'time.cloudflare.com:2053#꓃Tr -6',
 	'go.inmobi.com:2096#꓃Tr -7',
 	'creativecommons.org:2087#꓃Tr -8',
-	'horsefucker.pages.dev:8443#꓃Tr -9',
-	'holyfuck.xcdi.workers.dev:2083#꓃Tr -10',
 ];
 
 let sub = '';
